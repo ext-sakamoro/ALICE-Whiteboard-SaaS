@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_WHITEBOARD
+name: alice-whiteboard
 description: ALICE Whiteboard
 type: application
 version: 0.1.0
